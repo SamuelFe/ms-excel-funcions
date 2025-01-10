@@ -1,4 +1,4 @@
-# Info
+# CombineIntoSingleFunction
 
 This function takes a cell that contains a formula and returns the same formula but expands the inner referenced cells that contains another formulas leaving only the references of cells that contains values.
 
