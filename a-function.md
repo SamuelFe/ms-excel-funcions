@@ -1,6 +1,6 @@
 # a-function
 
-```
+```VBScript
 Function HelloWorldNTimes(rng As Range) As String
     Dim n As Integer
     Dim result As String
