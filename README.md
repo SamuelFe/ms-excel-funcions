@@ -2,7 +2,8 @@
 
 ## VBA Functions
 
-> [!NOTE] [How to use it](./tutorial/VBA-functions/howto.md)
+> [!NOTE] Tutorial
+> [How to use it](./tutorial/VBA-functions/howto.md)
 
 [CombineIntoSingleFunction](CombineIntoSingleFunction.md)
 
