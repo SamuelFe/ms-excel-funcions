@@ -2,4 +2,4 @@
 
 First, copy the desired function.
 
-![gif1](https://raw.githubusercontent.com/SamuelFe/ms-excel-funcions/main/tutorial/VBA-functions/1-copy-the-function.gif)
+<img src="https://raw.githubusercontent.com/SamuelFe/ms-excel-funcions/main/tutorial/VBA-functions/1-copy-the-function.gif" width=50% height=50%>
