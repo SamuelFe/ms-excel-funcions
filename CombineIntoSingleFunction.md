@@ -36,7 +36,7 @@ Function CombineIntoSingleFunction(cell As Range) As String
         If refCell.HasFormula Then
             refFormula = refCell.formula
             ' Recursively expand the nested formula
-            refFormula = ExpandFormulasRecursively(refCell)
+            refFormula = CombineIntoSingleFunction(refCell)
             ' Remove the '=' sign from the nested formula
             If Left(refFormula, 1) = "=" Then
                 refFormula = Mid(refFormula, 2)
